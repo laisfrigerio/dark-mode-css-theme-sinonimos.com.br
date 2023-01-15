@@ -1,6 +1,6 @@
 # ©️ Dark mode theme sinonimos.com.br
 
-Pretty useful Google Chrome Extension to apply a dark mode theme to sinomimos.com.br web site 🤍
+Pretty useful Google Chrome Extension to apply a dark mode theme to sinomimos.com.br website 🤍
 
 <p align="center">
   <a><img src="./screenshots/home-screen.png" alt="Home screen with dark mode theme" title="Home screen with dark mode theme"></a>
