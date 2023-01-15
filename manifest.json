@@ -1,0 +1,11 @@
+{
+    "name": "dark-mode-css-theme-sinonimos.com.br",
+    "version": "0.1.0",
+    "description": "Applying dark mode css theme in sinonimos.com.br web site",
+    "manifest_version": 3,
+    "author": "Lais Frigério",
+    "action":{
+      "default_popup": "index.css",
+      "default_title": "Sinônimos dark mode"
+    }
+  }

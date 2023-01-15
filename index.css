@@ -1,0 +1,64 @@
+:root {
+    --primary-color: #202123;
+    --secondary-color: #f5532a;
+    --tertinary-color: #2a2b2d;
+    --border-color: #676767;
+    --sub-title: #c8c8c8;
+    --default-link-color: #8f8f8f;
+    --hover-link-color: #3aa5dc;
+}
+
+body {
+    background-color: var(--primary-color) !important;
+}
+
+#searchForm #q {
+    background: var(--primary-color) !important;
+    border-color: var(--border-color) !important;
+}
+
+#searchForm #botao {
+    border-color: var(--border-color) !important;
+}
+
+.h-palavra {
+    color: var(--secondary-color) !important;
+}
+
+#content {
+    background-color: var(--tertinary-color) !important;
+}
+
+.sinonimos em.number {
+    background: var(--secondary-color) !important;
+}
+
+.wrapper div a,
+.sinonimos a {
+    color: var(--default-link-color) !important;
+}
+
+.wrapper div a:hover,
+.sinonimos a:hover {
+    color: var(--hover-link-color) !important;
+}
+
+.s-wrapper {
+    border-bottom: 1px solid var(--border-color) !important;
+}
+
+#info,
+#ligacoes {
+    border-top: 1px solid var(--border-color) !important;
+}
+
+#ligacoes {
+    border-bottom: 1px solid var(--border-color) !important;
+}
+
+.home-title,
+.sentido,
+.reviewer,
+#sg-feedback .sg-feedback__rating-title {
+    color: var(--sub-title) !important;
+}
