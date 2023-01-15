@@ -1,4 +1,4 @@
-# ©️ Dark mode theme Sinônimos.com.br
+# ©️ Dark mode theme sinonimos.com.br
 
 Pretty useful Google Chrome Extension to apply a dark mode theme to sinomimos.com.br web site 🤍
 
