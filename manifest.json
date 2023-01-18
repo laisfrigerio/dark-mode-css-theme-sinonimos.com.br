@@ -1,11 +1,12 @@
 {
-    "name": "dark-mode-css-theme-sinonimos.com.br",
+    "name": "sinonimos.com.br-dark-mode-theme",
     "version": "0.1.0",
-    "description": "Applying dark mode css theme in sinonimos.com.br web site",
+    "description": "Uma extensão para aplicar um tema escuro nas páginas do site sinonimos.com.br",
     "manifest_version": 3,
     "author": "Lais Frigério",
     "action":{
       "default_popup": "index.css",
-      "default_title": "Sinônimos dark mode"
+      "default_title": "Tema escuro para o site sinonimos.com.br"
     }
   }
+  
